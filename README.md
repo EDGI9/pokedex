@@ -1,6 +1,8 @@
 # Pokedex
 An app that connects to two open source Pokemon API's in order to create a simple pokedex
 
+# Demo
+[Pokedex](https://edgi9.github.io/pokedex/)
 
 ## Project setup
 ```
